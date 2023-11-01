@@ -1649,5 +1649,12 @@
             "decimals": 18,
             "logoURI": "https://raw.githubusercontent.com/uniswap/assets/master/blockchains/ethereum/assets/0x18084fbA666a33d37592fA2633fD49a74DD93a88/logo.png"
         }
-    ]
+    ],
+    "logoURI": "https://web-core-images.s3.eu-north-1.amazonaws.com/favicon-16x16.svg",
+    "tags": {
+        "sourceList": {
+            "name": "Palmera Dao Token List",
+            "description": "Palmera Dao Token List, for Arbitrum One"
+        }
+    }
 }
