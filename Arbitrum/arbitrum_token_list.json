@@ -1648,6 +1648,14 @@
             "symbol": "tBTC",
             "decimals": 18,
             "logoURI": "https://raw.githubusercontent.com/uniswap/assets/master/blockchains/ethereum/assets/0x18084fbA666a33d37592fA2633fD49a74DD93a88/logo.png"
+        },
+        {
+            "chainId": 42161,
+            "address": "0xa684cd057951541187f288294a1e1C2646aA2d24",
+            "name": "Vesta",
+            "symbol": "VSTA",
+            "decimals": 18,
+            "logoURI": "https://pbs.twimg.com/profile_images/1684092495091707905/s3aVIeQs_400x400.jpg"
         }
     ],
     "logoURI": "https://web-core-images.s3.eu-north-1.amazonaws.com/favicon-16x16.svg",
