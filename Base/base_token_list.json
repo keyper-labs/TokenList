@@ -2737,14 +2737,6 @@
         },
         {
             "chainId": 8453,
-            "address": "0xe1f9ac62a2f34881f6Fe0F84322dE9d7024C2b8E",
-            "name": "Mochi",
-            "symbol": "MOCHI",
-            "decimals": "8",
-            "logoURI": "https://assets.coingecko.com/coins/images/31207/small/mochi-coingecko.png?1696530034"
-        },
-        {
-            "chainId": 8453,
             "address": "0x30ed6eb751Bb1f94a35256dd68B01D1D27B576A5",
             "name": "Roach Rally",
             "symbol": "ROACH",
@@ -2926,14 +2918,6 @@
             "symbol": "DAWG",
             "decimals": "18",
             "logoURI": "https://assets.coingecko.com/coins/images/37004/small/DAWG.jpg?1713079584"
-        },
-        {
-            "chainId": 8453,
-            "address": "0xa4220a2B0Cb10BF5FDC3B8c3D9E13728f5E7ca56",
-            "name": "Mochi",
-            "symbol": "MOCHI",
-            "decimals": "8",
-            "logoURI": "https://assets.coingecko.com/coins/images/31290/small/UoypIsNd_400x400.jpg?1696530111"
         },
         {
             "chainId": 8453,
