@@ -1,0 +1,26 @@
+{
+  "name": "Palmera Dao Token List for Cheese Chain",
+  "timestamp": "2024-09-26T11:34:00.805818Z",
+  "version": {
+    "major": 1,
+    "minor": 0,
+    "patch": 0
+  },
+  "tokens": [
+    {
+      "chainId": 383353,
+      "address": "0x0000000000000000000000000000000000000000",
+      "name": "CHEESE",
+      "symbol": "CHEESE",
+      "decimals": "18",
+      "logoURI": "https://storage.googleapis.com/currency-logos/cheese-icon.png"
+    }
+  ],
+  "logoURI": "https://storage.googleapis.com/currency-logos/cheese-icon.png",
+  "tags": {
+    "sourceList": {
+      "name": "Palmera Dao Token List",
+      "description": "Palmera Dao Token List, for Cheese Chain"
+    }
+  }
+}
