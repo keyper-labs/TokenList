@@ -15,3 +15,11 @@ Palmera DAO's creation of a token list as a fork of Uniswap can serve several st
 - Enhanced Visibility for Tokens: For token creators, having their token included in Palmera DAO's default list can significantly enhance visibility and credibility within the community. This can lead to increased adoption and potentially higher liquidity for the token.
 
 In summary, Palmera DAO's initiative to create a customizable and community-driven token list can enhance user experience, engage the community, ensure quality and relevance, and foster an adaptive and transparent ecosystem.
+
+# Check Token List
+
+- [ZKsync Ethereum List](https://tokenlists.org/token-list?url=https://keyper-labs.github.io/TokenList/ZKSync/zksync_token_list.json)
+
+# Token List
+
+- [ZKsync](./ZKSync/zksync_token_list.json)
