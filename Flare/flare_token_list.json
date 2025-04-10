@@ -1,26 +1,26 @@
 {
-    "name": "Palmera Dao Token List for Flare Chain",
-    "timestamp": "2024-11-29T12:29:00.805818Z",
-    "version": {
-      "major": 1,
-      "minor": 0,
-      "patch": 0
-    },
-    "tokens": [
-      {
-        "chainId": 14,
-        "address": "0x0000000000000000000000000000000000000000",
-        "name": "Flare",
-        "symbol": "FLR",
-        "decimals": "18",
-        "logoURI": "https://storage.googleapis.com/currency-logos/flare-icon.png"
-      }
-    ],
-    "logoURI": "https://storage.googleapis.com/currency-logos/flare-icon.png",
-    "tags": {
-      "sourceList": {
-        "name": "Palmera Dao Token List",
-        "description": "Palmera Dao Token List, for Flare Chain"
-      }
+  "name": "Palmera Dao Token List for Flare Chain",
+  "timestamp": "2024-11-29T12:29:00.805818Z",
+  "version": {
+    "major": 1,
+    "minor": 0,
+    "patch": 0
+  },
+  "tokens": [
+    {
+      "chainId": 14,
+      "address": "0x0000000000000000000000000000000000000000",
+      "name": "Flare",
+      "symbol": "FLR",
+      "decimals": "18",
+      "logoURI": "https://storage.googleapis.com/currency-logos/flare-icon.png"
+    }
+  ],
+  "logoURI": "https://storage.googleapis.com/currency-logos/flare-icon.png",
+  "tags": {
+    "sourceList": {
+      "name": "Palmera Dao Token List",
+      "description": "Palmera Dao Token List, for Flare Chain"
     }
   }
+}

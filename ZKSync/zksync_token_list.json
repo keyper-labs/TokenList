@@ -1,418 +1,418 @@
 {
-	"name": "Palmera Dao Token List for ZKsync Chain",
-	"timestamp": "2025-03-10T12:29:00.805818Z",
-	"version": {
-		"major": 1,
-		"minor": 0,
-		"patch": 0
-	},
-	"tokens": [
-		{
-			"chainId": 324,
-			"address": "0x000000000000000000000000000000000000800A",
-			"name": "Ether",
-			"symbol": "ETH",
-			"decimals": 18,
-			"logoURI": null
-		},
-		{
-			"chainId": 324,
-			"address": "0x493257fD37EDB34451f62EDf8D2a0C418852bA4C",
-			"name": "Bridged USDT",
-			"symbol": "USDT",
-			"decimals": 6,
-			"logoURI": "https://assets.coingecko.com/coins/images/35001/small/logo.png?1706959346"
-		},
-		{
-			"chainId": 324,
-			"address": "0x3355df6D4c9C3035724Fd0e3914dE96A5a83aaf4",
-			"name": "zkSync Bridged USDC  zkSync",
-			"symbol": "USDC",
-			"decimals": 6,
-			"logoURI": "https://assets.coingecko.com/coins/images/35262/small/USDC_Icon.png?1708008941"
-		},
-		{
-			"chainId": 324,
-			"address": "0x1d17CBcF0D6D143135aE902365D2E5e2A16538D4",
-			"name": "USDC",
-			"symbol": "USDC",
-			"decimals": 6,
-			"logoURI": "https://assets.coingecko.com/coins/images/6319/small/usdc.png?1696506694"
-		},
-		{
-			"chainId": 324,
-			"address": "0xBBeB516fb02a01611cBBE0453Fe3c580D7281011",
-			"name": "zkSync Bridged WBTC  zkSync",
-			"symbol": "WBTC",
-			"decimals": 8,
-			"logoURI": "https://assets.coingecko.com/coins/images/39592/small/wbtc.png?1723016108"
-		},
-		{
-			"chainId": 324,
-			"address": "0x703b52F2b28fEbcB60E1372858AF5b18849FE867",
-			"name": "txSync Bridged wstETH  zkSync",
-			"symbol": "WSTETH",
-			"decimals": 18,
-			"logoURI": "https://assets.coingecko.com/coins/images/53019/small/steth.png?1734998126"
-		},
-		{
-			"chainId": 324,
-			"address": "0x6A5279E99CA7786fb13F827Fc1Fb4F61684933d6",
-			"name": "Avalanche",
-			"symbol": "AVAX",
-			"decimals": 18,
-			"logoURI": null
-		},
-		{
-			"chainId": 324,
-			"address": "0x5AEa5775959fBC2557Cc8789bC1bf90A239D9a91",
-			"name": "Bridged WETH",
-			"symbol": "WETH",
-			"decimals": 18,
-			"logoURI": "https://assets.coingecko.com/coins/images/39723/small/WETH.PNG?1723733967"
-		},
-		{
-			"chainId": 324,
-			"address": "0x4B9eb6c0b6ea15176BBF62841C6B2A8a398cb656",
-			"name": "ZKsync ERC20 Bridged DAI  zkSync",
-			"symbol": "DAI",
-			"decimals": 18,
-			"logoURI": "https://assets.coingecko.com/coins/images/39805/small/dai.png?1724126260"
-		},
-		{
-			"chainId": 324,
-			"address": "0x7400793aAd94C8CA801aa036357d10F5Fd0ce08f",
-			"name": "Binance Coin",
-			"symbol": "BNB",
-			"decimals": 18,
-			"logoURI": null
-		},
-		{
-			"chainId": 324,
-			"address": "0x3A287a06c66f9E95a56327185cA2BDF5f031cEcD",
-			"name": "PancakeSwap",
-			"symbol": "CAKE",
-			"decimals": 18,
-			"logoURI": "https://assets.coingecko.com/coins/images/12632/small/pancakeswap-cake-logo_%281%29.png?1696512440"
-		},
-		{
-			"chainId": 324,
-			"address": "0x5A7d6b2F92C77FAD6CCaBd7EE0624E64907Eaf3E",
-			"name": "ZKsync",
-			"symbol": "ZK",
-			"decimals": 18,
-			"logoURI": "https://assets.coingecko.com/coins/images/38043/small/ZKTokenBlack.png?1718614502"
-		},
-		{
-			"chainId": 324,
-			"address": "0x9E22D758629761FC5708c171d06c2faBB60B5159",
-			"name": "WOO",
-			"symbol": "WOO",
-			"decimals": 18,
-			"logoURI": "https://assets.coingecko.com/coins/images/12921/small/WOO_Logos_2023_Profile_Pic_WOO.png?1696512709"
-		},
-		{
-			"chainId": 324,
-			"address": "0x9Db6BF8B0215A02BEA9beF28A92D829FD008D480",
-			"name": "Cheems",
-			"symbol": "Cheems",
-			"decimals": 18,
-			"logoURI": "https://assets.coingecko.com/coins/images/30376/small/Hg4_Lhbg_400x400.jpg?1696529270"
-		},
-		{
-			"chainId": 324,
-			"address": "0xD78ABD81a3D57712a3af080dc4185b698Fe9ac5A",
-			"name": "Venus",
-			"symbol": "XVS",
-			"decimals": 18,
-			"logoURI": "https://assets.coingecko.com/coins/images/12677/small/XVS_Token.jpg?1727454303"
-		},
-		{
-			"chainId": 324,
-			"address": "0x8E86e46278518EFc1C5CEd245cBA2C7e3ef11557",
-			"name": "Overnight fi USD",
-			"symbol": "USD+",
-			"decimals": 6,
-			"logoURI": "https://assets.coingecko.com/coins/images/25757/small/USD__logo.png?1696524843"
-		},
-		{
-			"chainId": 324,
-			"address": "0x6ee46Cb7cD2f15Ee1ec9534cf29a5b51C83283e6",
-			"name": "Kyber Network Crystal",
-			"symbol": "KNC",
-			"decimals": 18,
-			"logoURI": "https://assets.coingecko.com/coins/images/14899/small/RwdVsGcw_400x400.jpg?1696514562"
-		},
-		{
-			"chainId": 324,
-			"address": "0x2039bb4116B4EFc145Ec4f0e2eA75012D6C0f181",
-			"name": "Celer Bridged BUSD  zkSync",
-			"symbol": "BUSD",
-			"decimals": 18,
-			"logoURI": null
-		},
-		{
-			"chainId": 324,
-			"address": "0x503234F203fC7Eb888EEC8513210612a43Cf6115",
-			"name": "Liquity USD",
-			"symbol": "LUSD",
-			"decimals": 18,
-			"logoURI": "https://assets.coingecko.com/coins/images/14666/small/Group_3.png?1696514341"
-		},
-		{
-			"chainId": 324,
-			"address": "0x28a487240e4D45CfF4A2980D334CC933B7483842",
-			"name": "Matic Token",
-			"symbol": "MATIC",
-			"decimals": 18,
-			"logoURI": null
-		},
-		{
-			"chainId": 324,
-			"address": "0x787c09494Ec8Bcb24DcAf8659E7d5D69979eE508",
-			"name": "Maverick Protocol",
-			"symbol": "MAV",
-			"decimals": 18,
-			"logoURI": "https://assets.coingecko.com/coins/images/30850/small/MAV_Logo.png?1696529701"
-		},
-		{
-			"chainId": 324,
-			"address": "0x3613AD277DF1d5935D41400A181Aa9ec1DC2Dc9e",
-			"name": "Wagmi",
-			"symbol": "WAGMI",
-			"decimals": 18,
-			"logoURI": "https://assets.coingecko.com/coins/images/31887/small/wagmi_token_logo.png?1696530698"
-		},
-		{
-			"chainId": 324,
-			"address": "0xe593853b4d603d5b8f21036Bb4AD0D1880097a6e",
-			"name": "Fulcrom",
-			"symbol": "FUL",
-			"decimals": 18,
-			"logoURI": "https://assets.coingecko.com/coins/images/29684/small/FUL_Token_%281%29.png?1696528618"
-		},
-		{
-			"chainId": 324,
-			"address": "0xE75A17b4F5c4F844688d5670B684515d7c785E63",
-			"name": "Veno Finance",
-			"symbol": "VNO",
-			"decimals": 18,
-			"logoURI": "https://assets.coingecko.com/coins/images/28799/small/Veno_Token_dark.png?1696527777"
-		},
-		{
-			"chainId": 324,
-			"address": "0xed4040fD47629e7c8FBB7DA76bb50B3e7695F0f2",
-			"name": "Holdstation",
-			"symbol": "HOLD",
-			"decimals": 18,
-			"logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/zksync/assets/0xed4040fD47629e7c8FBB7DA76bb50B3e7695F0f2/logo.png"
-		},
-		{
-			"chainId": 324,
-			"address": "0x7F2FD959013eEC5144269ac6edD0015Cb10968Fc",
-			"name": "Tarot",
-			"symbol": "TAROT",
-			"decimals": 18,
-			"logoURI": "https://assets.coingecko.com/coins/images/31800/small/TAROT.jpg?1696530615"
-		},
-		{
-			"chainId": 324,
-			"address": "0xdbFF7c6d368904680706804645cAfA4dEfa3c224",
-			"name": "Tevaera",
-			"symbol": "TEVA",
-			"decimals": 18,
-			"logoURI": "https://assets.coingecko.com/coins/images/53086/small/Teva-200.png?1735204737"
-		},
-		{
-			"chainId": 324,
-			"address": "0x9929bCAC4417A21d7e6FC86F6Dae1Cc7f27A2e41",
-			"name": "Domani Protocol",
-			"symbol": "DEXTF",
-			"decimals": 18,
-			"logoURI": "https://assets.coingecko.com/coins/images/12634/small/0qgT0aMu_400x400.jpg?1696512442"
-		},
-		{
-			"chainId": 324,
-			"address": "0x16A9494e257703797D747540f01683952547EE5b",
-			"name": "iZUMi Finance",
-			"symbol": "IZI",
-			"decimals": 18,
-			"logoURI": "https://assets.coingecko.com/coins/images/21791/small/izumi-logo-symbol.png?1696521144"
-		},
-		{
-			"chainId": 324,
-			"address": "0xbe9f8C0d6f0Fd7e46CDaCCA340747EA2f247991D",
-			"name": "Impermax",
-			"symbol": "IBEX",
-			"decimals": 18,
-			"logoURI": "https://assets.coingecko.com/coins/images/27606/small/IqwOmX-c_400x400.jpeg?1696526637"
-		},
-		{
-			"chainId": 324,
-			"address": "0xdd9f72afED3631a6C85b5369D84875e6c42f1827",
-			"name": "Symbiosis",
-			"symbol": "SIS",
-			"decimals": 18,
-			"logoURI": "https://assets.coingecko.com/coins/images/20805/small/SymbiosisFinance_logo-150x150.jpeg?1696520198"
-		},
-		{
-			"chainId": 324,
-			"address": "0x27d0A2b5316b98088294378692F4EAbfB3222e36",
-			"name": "ZeroLend",
-			"symbol": "ZERO",
-			"decimals": 18,
-			"logoURI": "https://assets.coingecko.com/coins/images/37375/small/image.png?1714884543"
-		},
-		{
-			"chainId": 324,
-			"address": "0x5d0d7BCa050e2E98Fd4A5e8d3bA823B49f39868d",
-			"name": "Zyfi",
-			"symbol": "ZFI",
-			"decimals": 18,
-			"logoURI": "https://assets.coingecko.com/coins/images/39770/small/Zyfi_Favicon_HQ_1.png?1732011570"
-		},
-		{
-			"chainId": 324,
-			"address": "0xAbEc5eCBe08b6c02F5c9A2fF82696e1E7dB6f9bf",
-			"name": "Heurist",
-			"symbol": "HEU",
-			"decimals": 18,
-			"logoURI": "https://assets.coingecko.com/coins/images/51361/small/200X200.png?1733764636"
-		},
-		{
-			"chainId": 324,
-			"address": "0x81E7186947fb59AAAAEb476a47daAc60680cbbaF",
-			"name": "Wefi",
-			"symbol": "WEFI",
-			"decimals": 18,
-			"logoURI": "https://assets.coingecko.com/coins/images/30540/small/wefi.png?1696529412"
-		},
-		{
-			"chainId": 324,
-			"address": "0xaf08a9d918f16332F22cf8Dc9ABE9D9E14DdcbC2",
-			"name": "Holdstation USDC",
-			"symbol": "HSUSDC",
-			"decimals": 6,
-			"logoURI": "https://assets.coingecko.com/coins/images/32646/small/hsUSDC.png?1698893340"
-		},
-		{
-			"chainId": 324,
-			"address": "0x79db8c67d0c33203da4Efb58F7D325E1e0d4d692",
-			"name": "Zeek Coin",
-			"symbol": "MEOW",
-			"decimals": 18,
-			"logoURI": "https://assets.coingecko.com/coins/images/34101/small/Zeek_200_by_200.png?1714928523"
-		},
-		{
-			"chainId": 324,
-			"address": "0x31C2c031fDc9d33e974f327Ab0d9883Eae06cA4A",
-			"name": "zkSwap Finance",
-			"symbol": "ZF",
-			"decimals": 18,
-			"logoURI": "https://assets.coingecko.com/coins/images/31633/small/zf.png?1696530449"
-		},
-		{
-			"chainId": 324,
-			"address": "0xa995ad25Ce5eB76972ab356168f5e1D9257E4d05",
-			"name": "Koi",
-			"symbol": "KOI",
-			"decimals": 18,
-			"logoURI": "https://assets.coingecko.com/coins/images/35766/small/Koi_logo.png?1709782399"
-		},
-		{
-			"chainId": 324,
-			"address": "0xDea6d5161978d36b5C0FA6a491faA754f4BC809C",
-			"name": "Idexo",
-			"symbol": "IDO",
-			"decimals": 18,
-			"logoURI": "https://assets.coingecko.com/coins/images/18523/small/qOiqm7T8_400x400.jpg?1696518004"
-		},
-		{
-			"chainId": 324,
-			"address": "0xd03465338226ea0178337F4abb16FdD6df529F57",
-			"name": "Interport Token",
-			"symbol": "ITP",
-			"decimals": 18,
-			"logoURI": "https://assets.coingecko.com/coins/images/28338/small/ITP_Logo_200.png?1696527344"
-		},
-		{
-			"chainId": 324,
-			"address": "0xBD4372e44c5eE654dd838304006E1f0f69983154",
-			"name": "Nodle Network",
-			"symbol": "NODL",
-			"decimals": 18,
-			"logoURI": "https://assets.coingecko.com/coins/images/27019/small/nodle.png?1696526071"
-		},
-		{
-			"chainId": 324,
-			"address": "0xE027D939f7dE6F521675907Cf086F59E4D75B876",
-			"name": "Solarcoin",
-			"symbol": "SLR",
-			"decimals": 18,
-			"logoURI": "https://assets.coingecko.com/coins/images/152/small/solarcoin.png?1696501524"
-		},
-		{
-			"chainId": 324,
-			"address": "0xC8Ac6191CDc9c7bF846AD6b52aaAA7a0757eE305",
-			"name": "Metavault Trade",
-			"symbol": "MVX",
-			"decimals": 18,
-			"logoURI": "https://assets.coingecko.com/coins/images/25402/small/mvx.png?1696524534"
-		},
-		{
-			"chainId": 324,
-			"address": "0xCDb7D260c107499C80B4b748e8331c64595972a1",
-			"name": "Karat",
-			"symbol": "KAT",
-			"decimals": 18,
-			"logoURI": "https://assets.coingecko.com/coins/images/31834/small/coin1.png?1696530647"
-		},
-		{
-			"chainId": 324,
-			"address": "0x0e97C7a0F8B2C9885C8ac9fC6136e829CbC21d42",
-			"name": "Mute",
-			"symbol": "MUTE",
-			"decimals": 18,
-			"logoURI": "https://assets.coingecko.com/coins/images/14331/small/MUTE.png?1696514019"
-		},
-		{
-			"chainId": 324,
-			"address": "0x5165ec33b491d7b67260B3143f96Bb4aC4736398",
-			"name": "Long",
-			"symbol": "LONG",
-			"decimals": 18,
-			"logoURI": "https://assets.coingecko.com/coins/images/36497/small/Logo_Long_square.png?1717541650"
-		},
-		{
-			"chainId": 324,
-			"address": "0xD63eF5e9C628c8a0E8984CDfb7444AEE44B09044",
-			"name": "CVI",
-			"symbol": "GOVI",
-			"decimals": 18,
-			"logoURI": "https://assets.coingecko.com/coins/images/13875/small/GOVI.png?1696513619"
-		},
-		{
-			"chainId": 324,
-			"address": "0xF6D9a093A1C69a152d87e269A7d909E9D76B1815",
-			"name": "Super Launcher",
-			"symbol": "LAUNCH",
-			"decimals": 18,
-			"logoURI": "https://assets.coingecko.com/coins/images/14817/small/SL-V3-1024.png?1696514485"
-		},
-		{
-			"chainId": 324,
-			"address": "0x971b79EF5E76088Af5E52c6D6aA3276c2190e45c",
-			"name": "Synapse Network",
-			"symbol": "ZKSNP",
-			"decimals": 18,
-			"logoURI": "https://assets.coingecko.com/coins/images/34990/small/blobid0_%281%29.png?1707451143"
-		}
-	],
-	"logoURI": "https://storage.googleapis.com/currency-logos/zksync-era-icon.svg",
-	"tags": {
-		"sourceList": {
-			"name": "Palmera Dao Token List",
-			"description": "Palmera Dao Token List, for ZKsync Chain"
-		}
-	}
+  "name": "Palmera Dao Token List for ZKsync Chain",
+  "timestamp": "2025-03-10T12:29:00.805818Z",
+  "version": {
+    "major": 1,
+    "minor": 0,
+    "patch": 0
+  },
+  "tokens": [
+    {
+      "chainId": 324,
+      "address": "0x000000000000000000000000000000000000800A",
+      "name": "Ether",
+      "symbol": "ETH",
+      "decimals": 18,
+      "logoURI": null
+    },
+    {
+      "chainId": 324,
+      "address": "0x493257fD37EDB34451f62EDf8D2a0C418852bA4C",
+      "name": "Bridged USDT",
+      "symbol": "USDT",
+      "decimals": 6,
+      "logoURI": "https://assets.coingecko.com/coins/images/35001/small/logo.png?1706959346"
+    },
+    {
+      "chainId": 324,
+      "address": "0x3355df6D4c9C3035724Fd0e3914dE96A5a83aaf4",
+      "name": "zkSync Bridged USDC  zkSync",
+      "symbol": "USDC",
+      "decimals": 6,
+      "logoURI": "https://assets.coingecko.com/coins/images/35262/small/USDC_Icon.png?1708008941"
+    },
+    {
+      "chainId": 324,
+      "address": "0x1d17CBcF0D6D143135aE902365D2E5e2A16538D4",
+      "name": "USDC",
+      "symbol": "USDC",
+      "decimals": 6,
+      "logoURI": "https://assets.coingecko.com/coins/images/6319/small/usdc.png?1696506694"
+    },
+    {
+      "chainId": 324,
+      "address": "0xBBeB516fb02a01611cBBE0453Fe3c580D7281011",
+      "name": "zkSync Bridged WBTC  zkSync",
+      "symbol": "WBTC",
+      "decimals": 8,
+      "logoURI": "https://assets.coingecko.com/coins/images/39592/small/wbtc.png?1723016108"
+    },
+    {
+      "chainId": 324,
+      "address": "0x703b52F2b28fEbcB60E1372858AF5b18849FE867",
+      "name": "txSync Bridged wstETH  zkSync",
+      "symbol": "WSTETH",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/53019/small/steth.png?1734998126"
+    },
+    {
+      "chainId": 324,
+      "address": "0x6A5279E99CA7786fb13F827Fc1Fb4F61684933d6",
+      "name": "Avalanche",
+      "symbol": "AVAX",
+      "decimals": 18,
+      "logoURI": null
+    },
+    {
+      "chainId": 324,
+      "address": "0x5AEa5775959fBC2557Cc8789bC1bf90A239D9a91",
+      "name": "Bridged WETH",
+      "symbol": "WETH",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/39723/small/WETH.PNG?1723733967"
+    },
+    {
+      "chainId": 324,
+      "address": "0x4B9eb6c0b6ea15176BBF62841C6B2A8a398cb656",
+      "name": "ZKsync ERC20 Bridged DAI  zkSync",
+      "symbol": "DAI",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/39805/small/dai.png?1724126260"
+    },
+    {
+      "chainId": 324,
+      "address": "0x7400793aAd94C8CA801aa036357d10F5Fd0ce08f",
+      "name": "Binance Coin",
+      "symbol": "BNB",
+      "decimals": 18,
+      "logoURI": null
+    },
+    {
+      "chainId": 324,
+      "address": "0x3A287a06c66f9E95a56327185cA2BDF5f031cEcD",
+      "name": "PancakeSwap",
+      "symbol": "CAKE",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/12632/small/pancakeswap-cake-logo_%281%29.png?1696512440"
+    },
+    {
+      "chainId": 324,
+      "address": "0x5A7d6b2F92C77FAD6CCaBd7EE0624E64907Eaf3E",
+      "name": "ZKsync",
+      "symbol": "ZK",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/38043/small/ZKTokenBlack.png?1718614502"
+    },
+    {
+      "chainId": 324,
+      "address": "0x9E22D758629761FC5708c171d06c2faBB60B5159",
+      "name": "WOO",
+      "symbol": "WOO",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/12921/small/WOO_Logos_2023_Profile_Pic_WOO.png?1696512709"
+    },
+    {
+      "chainId": 324,
+      "address": "0x9Db6BF8B0215A02BEA9beF28A92D829FD008D480",
+      "name": "Cheems",
+      "symbol": "Cheems",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/30376/small/Hg4_Lhbg_400x400.jpg?1696529270"
+    },
+    {
+      "chainId": 324,
+      "address": "0xD78ABD81a3D57712a3af080dc4185b698Fe9ac5A",
+      "name": "Venus",
+      "symbol": "XVS",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/12677/small/XVS_Token.jpg?1727454303"
+    },
+    {
+      "chainId": 324,
+      "address": "0x8E86e46278518EFc1C5CEd245cBA2C7e3ef11557",
+      "name": "Overnight fi USD",
+      "symbol": "USD+",
+      "decimals": 6,
+      "logoURI": "https://assets.coingecko.com/coins/images/25757/small/USD__logo.png?1696524843"
+    },
+    {
+      "chainId": 324,
+      "address": "0x6ee46Cb7cD2f15Ee1ec9534cf29a5b51C83283e6",
+      "name": "Kyber Network Crystal",
+      "symbol": "KNC",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/14899/small/RwdVsGcw_400x400.jpg?1696514562"
+    },
+    {
+      "chainId": 324,
+      "address": "0x2039bb4116B4EFc145Ec4f0e2eA75012D6C0f181",
+      "name": "Celer Bridged BUSD  zkSync",
+      "symbol": "BUSD",
+      "decimals": 18,
+      "logoURI": null
+    },
+    {
+      "chainId": 324,
+      "address": "0x503234F203fC7Eb888EEC8513210612a43Cf6115",
+      "name": "Liquity USD",
+      "symbol": "LUSD",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/14666/small/Group_3.png?1696514341"
+    },
+    {
+      "chainId": 324,
+      "address": "0x28a487240e4D45CfF4A2980D334CC933B7483842",
+      "name": "Matic Token",
+      "symbol": "MATIC",
+      "decimals": 18,
+      "logoURI": null
+    },
+    {
+      "chainId": 324,
+      "address": "0x787c09494Ec8Bcb24DcAf8659E7d5D69979eE508",
+      "name": "Maverick Protocol",
+      "symbol": "MAV",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/30850/small/MAV_Logo.png?1696529701"
+    },
+    {
+      "chainId": 324,
+      "address": "0x3613AD277DF1d5935D41400A181Aa9ec1DC2Dc9e",
+      "name": "Wagmi",
+      "symbol": "WAGMI",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/31887/small/wagmi_token_logo.png?1696530698"
+    },
+    {
+      "chainId": 324,
+      "address": "0xe593853b4d603d5b8f21036Bb4AD0D1880097a6e",
+      "name": "Fulcrom",
+      "symbol": "FUL",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/29684/small/FUL_Token_%281%29.png?1696528618"
+    },
+    {
+      "chainId": 324,
+      "address": "0xE75A17b4F5c4F844688d5670B684515d7c785E63",
+      "name": "Veno Finance",
+      "symbol": "VNO",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/28799/small/Veno_Token_dark.png?1696527777"
+    },
+    {
+      "chainId": 324,
+      "address": "0xed4040fD47629e7c8FBB7DA76bb50B3e7695F0f2",
+      "name": "Holdstation",
+      "symbol": "HOLD",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/zksync/assets/0xed4040fD47629e7c8FBB7DA76bb50B3e7695F0f2/logo.png"
+    },
+    {
+      "chainId": 324,
+      "address": "0x7F2FD959013eEC5144269ac6edD0015Cb10968Fc",
+      "name": "Tarot",
+      "symbol": "TAROT",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/31800/small/TAROT.jpg?1696530615"
+    },
+    {
+      "chainId": 324,
+      "address": "0xdbFF7c6d368904680706804645cAfA4dEfa3c224",
+      "name": "Tevaera",
+      "symbol": "TEVA",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/53086/small/Teva-200.png?1735204737"
+    },
+    {
+      "chainId": 324,
+      "address": "0x9929bCAC4417A21d7e6FC86F6Dae1Cc7f27A2e41",
+      "name": "Domani Protocol",
+      "symbol": "DEXTF",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/12634/small/0qgT0aMu_400x400.jpg?1696512442"
+    },
+    {
+      "chainId": 324,
+      "address": "0x16A9494e257703797D747540f01683952547EE5b",
+      "name": "iZUMi Finance",
+      "symbol": "IZI",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/21791/small/izumi-logo-symbol.png?1696521144"
+    },
+    {
+      "chainId": 324,
+      "address": "0xbe9f8C0d6f0Fd7e46CDaCCA340747EA2f247991D",
+      "name": "Impermax",
+      "symbol": "IBEX",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/27606/small/IqwOmX-c_400x400.jpeg?1696526637"
+    },
+    {
+      "chainId": 324,
+      "address": "0xdd9f72afED3631a6C85b5369D84875e6c42f1827",
+      "name": "Symbiosis",
+      "symbol": "SIS",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/20805/small/SymbiosisFinance_logo-150x150.jpeg?1696520198"
+    },
+    {
+      "chainId": 324,
+      "address": "0x27d0A2b5316b98088294378692F4EAbfB3222e36",
+      "name": "ZeroLend",
+      "symbol": "ZERO",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/37375/small/image.png?1714884543"
+    },
+    {
+      "chainId": 324,
+      "address": "0x5d0d7BCa050e2E98Fd4A5e8d3bA823B49f39868d",
+      "name": "Zyfi",
+      "symbol": "ZFI",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/39770/small/Zyfi_Favicon_HQ_1.png?1732011570"
+    },
+    {
+      "chainId": 324,
+      "address": "0xAbEc5eCBe08b6c02F5c9A2fF82696e1E7dB6f9bf",
+      "name": "Heurist",
+      "symbol": "HEU",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/51361/small/200X200.png?1733764636"
+    },
+    {
+      "chainId": 324,
+      "address": "0x81E7186947fb59AAAAEb476a47daAc60680cbbaF",
+      "name": "Wefi",
+      "symbol": "WEFI",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/30540/small/wefi.png?1696529412"
+    },
+    {
+      "chainId": 324,
+      "address": "0xaf08a9d918f16332F22cf8Dc9ABE9D9E14DdcbC2",
+      "name": "Holdstation USDC",
+      "symbol": "HSUSDC",
+      "decimals": 6,
+      "logoURI": "https://assets.coingecko.com/coins/images/32646/small/hsUSDC.png?1698893340"
+    },
+    {
+      "chainId": 324,
+      "address": "0x79db8c67d0c33203da4Efb58F7D325E1e0d4d692",
+      "name": "Zeek Coin",
+      "symbol": "MEOW",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/34101/small/Zeek_200_by_200.png?1714928523"
+    },
+    {
+      "chainId": 324,
+      "address": "0x31C2c031fDc9d33e974f327Ab0d9883Eae06cA4A",
+      "name": "zkSwap Finance",
+      "symbol": "ZF",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/31633/small/zf.png?1696530449"
+    },
+    {
+      "chainId": 324,
+      "address": "0xa995ad25Ce5eB76972ab356168f5e1D9257E4d05",
+      "name": "Koi",
+      "symbol": "KOI",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/35766/small/Koi_logo.png?1709782399"
+    },
+    {
+      "chainId": 324,
+      "address": "0xDea6d5161978d36b5C0FA6a491faA754f4BC809C",
+      "name": "Idexo",
+      "symbol": "IDO",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/18523/small/qOiqm7T8_400x400.jpg?1696518004"
+    },
+    {
+      "chainId": 324,
+      "address": "0xd03465338226ea0178337F4abb16FdD6df529F57",
+      "name": "Interport Token",
+      "symbol": "ITP",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/28338/small/ITP_Logo_200.png?1696527344"
+    },
+    {
+      "chainId": 324,
+      "address": "0xBD4372e44c5eE654dd838304006E1f0f69983154",
+      "name": "Nodle Network",
+      "symbol": "NODL",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/27019/small/nodle.png?1696526071"
+    },
+    {
+      "chainId": 324,
+      "address": "0xE027D939f7dE6F521675907Cf086F59E4D75B876",
+      "name": "Solarcoin",
+      "symbol": "SLR",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/152/small/solarcoin.png?1696501524"
+    },
+    {
+      "chainId": 324,
+      "address": "0xC8Ac6191CDc9c7bF846AD6b52aaAA7a0757eE305",
+      "name": "Metavault Trade",
+      "symbol": "MVX",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/25402/small/mvx.png?1696524534"
+    },
+    {
+      "chainId": 324,
+      "address": "0xCDb7D260c107499C80B4b748e8331c64595972a1",
+      "name": "Karat",
+      "symbol": "KAT",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/31834/small/coin1.png?1696530647"
+    },
+    {
+      "chainId": 324,
+      "address": "0x0e97C7a0F8B2C9885C8ac9fC6136e829CbC21d42",
+      "name": "Mute",
+      "symbol": "MUTE",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/14331/small/MUTE.png?1696514019"
+    },
+    {
+      "chainId": 324,
+      "address": "0x5165ec33b491d7b67260B3143f96Bb4aC4736398",
+      "name": "Long",
+      "symbol": "LONG",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/36497/small/Logo_Long_square.png?1717541650"
+    },
+    {
+      "chainId": 324,
+      "address": "0xD63eF5e9C628c8a0E8984CDfb7444AEE44B09044",
+      "name": "CVI",
+      "symbol": "GOVI",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/13875/small/GOVI.png?1696513619"
+    },
+    {
+      "chainId": 324,
+      "address": "0xF6D9a093A1C69a152d87e269A7d909E9D76B1815",
+      "name": "Super Launcher",
+      "symbol": "LAUNCH",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/14817/small/SL-V3-1024.png?1696514485"
+    },
+    {
+      "chainId": 324,
+      "address": "0x971b79EF5E76088Af5E52c6D6aA3276c2190e45c",
+      "name": "Synapse Network",
+      "symbol": "ZKSNP",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/34990/small/blobid0_%281%29.png?1707451143"
+    }
+  ],
+  "logoURI": "https://storage.googleapis.com/currency-logos/zksync-era-icon.svg",
+  "tags": {
+    "sourceList": {
+      "name": "Palmera Dao Token List",
+      "description": "Palmera Dao Token List, for ZKsync Chain"
+    }
+  }
 }
