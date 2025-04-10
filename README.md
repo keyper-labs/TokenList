@@ -20,7 +20,6 @@ In summary, Palmera DAO's initiative to create a customizable and community-driv
 
 - [ZKsync Ethereum List](https://tokenlists.org/token-list?url=https://keyper-labs.github.io/TokenList/ZKSync/zksync_token_list.json)
 - [Flare List](https://tokenlists.org/token-list?url=https://keyper-labs.github.io/TokenList/Flare/flare_token_list.json)
-- [Cheese List](https://tokenlists.org/token-list?url=https://keyper-labs.github.io/TokenList/Cheese/cheese_token_list.json)
 - [Base List](https://tokenlists.org/token-list?url=https://keyper-labs.github.io/TokenList/Base/base_token_list.json)
 - [Arbitrum List](https://tokenlists.org/token-list?url=https://keyper-labs.github.io/TokenList/Arbitrum/arbitrum_token_list.json)
 
@@ -28,6 +27,5 @@ In summary, Palmera DAO's initiative to create a customizable and community-driv
 
 - [ZKsync](./ZKSync/zksync_token_list.json)
 - [Flare](./Flare/flare_token_list.json)
-- [Cheese](./Cheese/cheese_token_list.json)
 - [Base](./Base/base_token_list.json)
 - [Arbitrum](./Arbitrum/arbitrum_token_list.json)
