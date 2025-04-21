@@ -29,7 +29,7 @@
       "name": "RWA of USDX which earns treasury yields",
       "symbol": "cUSDX",
       "decimals": "18",
-      "logoURI": "https://keyper-labs.github.io/TokenList/logos/flare/cusdx.png"
+      "logoURI": "https://raw.githubusercontent.com/PalmeraDAO/TokenList/main/logos/flare/cusdx.png"
     },
     {
       "chainId": 14,
@@ -37,7 +37,7 @@
       "name": "Governance token for flrETH. OFT bridged",
       "symbol": "DINERO",
       "decimals": "18",
-      "logoURI": "https://keyper-labs.github.io/TokenList/logos/flare/dinero.png"
+      "logoURI": "https://storage.googleapis.com/currency-logos/flare-icon.png"
     },
     {
       "chainId": 14,
@@ -61,7 +61,7 @@
       "name": "Wrapped ETH",
       "symbol": "WETH",
       "decimals": "18",
-      "logoURI": "https://storage.googleapis.com/currency-logos/eth-icon.svg"
+      "logoURI": "https://raw.githubusercontent.com/PalmeraDAO/TokenList/main/logos/flare/weth.png"
     },
     {
       "chainId": 14,
@@ -69,7 +69,7 @@
       "name": "Bridged USDC on Stargate",
       "symbol": "USDC.e",
       "decimals": "18",
-      "logoURI": "https://keyper-labs.github.io/TokenList/logos/flare/usdc.e.png"
+      "logoURI": "https://raw.githubusercontent.com/PalmeraDAO/TokenList/main/logos/flare/usdc.e.png"
     },
     {
       "chainId": 14,
@@ -101,7 +101,7 @@
       "name": "Cyclo Wrapped ETH",
       "symbol": "CyWETH",
       "decimals": "18",
-      "logoURI": "https://keyper-labs.github.io/TokenList/logos/flare/cyweth.png"
+      "logoURI": "https://raw.githubusercontent.com/PalmeraDAO/TokenList/main/logos/flare/cyweth.png"
     },
     {
       "chainId": 14,
