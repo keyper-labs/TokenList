@@ -1,130 +1,130 @@
 {
-	"name": "Palmera Dao Token List for Flare Chain",
-	"timestamp": "2024-11-29T12:29:00.805818Z",
-	"version": {
-		"major": 1,
-		"minor": 0,
-		"patch": 0
-	},
-	"tokens": [
-		{
-			"chainId": 14,
-			"address": "0x0000000000000000000000000000000000000000",
-			"name": "Flare",
-			"symbol": "FLR",
-			"decimals": "18",
-			"logoURI": "https://storage.googleapis.com/currency-logos/flare-icon.png"
-		},
-		{
-			"chainId": 14,
-			"address": "0x4A771Cc1a39FDd8AA08B8EA51F7Fd412e73B3d2B",
-			"name": "Hex trust USD",
-			"symbol": "USDX",
-			"decimals": "18",
-			"logoURI": "https://coin-images.coingecko.com/coins/images/38997/large/USDX.png?1719809776"
-		},
-		{
-			"chainId": 14,
-			"address": "0xFE2907DFa8DB6e320cDbF45f0aa888F6135ec4f8",
-			"name": "RWA of USDX which earns treasury yields",
-			"symbol": "cUSDX",
-			"decimals": "18",
-			"logoURI": "https://keyper-labs.github.io/TokenList/logos/flare/cusdx.png"
-		},
-		{
-			"chainId": 14,
-			"address": "0xBE6D2BE4e01D4304a28eDD13038311e112313ec8",
-			"name": "Governance token for flrETH. OFT bridged",
-			"symbol": "DINERO",
-			"decimals": "18",
-			"logoURI": "https://keyper-labs.github.io/TokenList/logos/flare/dinero.png"
-		},
-		{
-			"chainId": 14,
-			"address": "0x1D80c49BbBCd1C0911346656B529DF9E5c2F783d",
-			"name": "Wrapped Flare",
-			"symbol": "WFLR",
-			"decimals": "18",
-			"logoURI": "https://coin-images.coingecko.com/coins/images/28705/large/flare.png?1696527687"
-		},
-		{
-			"chainId": 14,
-			"address": "0x12e605bc104e93B45e1aD99F9e555f659051c2BB",
-			"name": "Staked Flare",
-			"symbol": "sFLR",
-			"decimals": "18",
-			"logoURI": "https://coin-images.coingecko.com/coins/images/38940/large/sFLR.png?1719569593"
-		},
-		{
-			"chainId": 14,
-			"address": "0x1502FA4be69d526124D453619276FacCab275d3D",
-			"name": "Wrapped ETH",
-			"symbol": "WETH",
-			"decimals": "18",
-			"logoURI": "https://storage.googleapis.com/currency-logos/eth-icon.svg"
-		},
-		{
-			"chainId": 14,
-			"address": "0xFbDa5F676cB37624f28265A144A48B0d6e87d3b6",
-			"name": "Bridged USDC on Stargate",
-			"symbol": "USDC.e",
-			"decimals": "18",
-			"logoURI": "https://keyper-labs.github.io/TokenList/logos/flare/usdc.e.png"
-		},
-		{
-			"chainId": 14,
-			"address": "0x0B38e83B86d491735fEaa0a791F65c2B99535396",
-			"name": "Bridged USDT on Stargate",
-			"symbol": "USDT",
-			"decimals": "18",
-			"logoURI": "https://coin-images.coingecko.com/coins/images/39964/large/usdt.png?1724952861"
-		},
-		{
-			"chainId": 14,
-			"address": "0x26A1faB310bd080542DC864647d05985360B16A5",
-			"name": "Flare staked Ether",
-			"symbol": "flrETH",
-			"decimals": "18",
-			"logoURI": "https://coin-images.coingecko.com/coins/images/54761/large/flrETH-token_icon.png?1741413946"
-		},
-		{
-			"chainId": 14,
-			"address": "0x19831cfB53A0dbeAD9866C43557C1D48DfF76567",
-			"name": "Cyclo FLR",
-			"symbol": "CysFLR",
-			"decimals": "18",
-			"logoURI": "https://storage.googleapis.com/currency-logos/flare-icon.png"
-		},
-		{
-			"chainId": 14,
-			"address": "0xd8BF1d2720E9fFD01a2F9A2eFc3E101a05B852b4",
-			"name": "Cyclo Wrapped ETH",
-			"symbol": "CyWETH",
-			"decimals": "18",
-			"logoURI": "https://keyper-labs.github.io/TokenList/logos/flare/cyweth.png"
-		},
-		{
-			"chainId": 14,
-			"address": "0xaFBdD875858Dd48EE32A68Ac1349A5017095B161",
-			"name": "Xhaven token",
-			"symbol": "XVN",
-			"decimals": "18",
-			"logoURI": "https://coin-images.coingecko.com/coins/images/52736/large/XVN_Logo.png?1734105356"
-		},
-		{
-			"chainId": 14,
-			"address": "0xE6505f92583103AF7ed9974DEC451A7Af4e3A3bE",
-			"name": "Kinetic Token",
-			"symbol": "Joule",
-			"decimals": "18",
-			"logoURI": "https://coin-images.coingecko.com/coins/images/39538/large/Joule_square.png?1722841551"
-		}
-	],
-	"logoURI": "https://storage.googleapis.com/currency-logos/flare-icon.png",
-	"tags": {
-		"sourceList": {
-			"name": "Palmera Dao Token List",
-			"description": "Palmera Dao Token List, for Flare Chain"
-		}
-	}
+  "name": "Palmera Dao Token List for Flare Chain",
+  "timestamp": "2024-11-29T12:29:00.805818Z",
+  "version": {
+    "major": 1,
+    "minor": 0,
+    "patch": 0
+  },
+  "tokens": [
+    {
+      "chainId": 14,
+      "address": "0x0000000000000000000000000000000000000000",
+      "name": "Flare",
+      "symbol": "FLR",
+      "decimals": "18",
+      "logoURI": "https://storage.googleapis.com/currency-logos/flare-icon.png"
+    },
+    {
+      "chainId": 14,
+      "address": "0x4A771Cc1a39FDd8AA08B8EA51F7Fd412e73B3d2B",
+      "name": "Hex trust USD",
+      "symbol": "USDX",
+      "decimals": "18",
+      "logoURI": "https://coin-images.coingecko.com/coins/images/38997/large/USDX.png?1719809776"
+    },
+    {
+      "chainId": 14,
+      "address": "0xFE2907DFa8DB6e320cDbF45f0aa888F6135ec4f8",
+      "name": "RWA of USDX which earns treasury yields",
+      "symbol": "cUSDX",
+      "decimals": "18",
+      "logoURI": "https://keyper-labs.github.io/TokenList/logos/flare/cusdx.png"
+    },
+    {
+      "chainId": 14,
+      "address": "0xBE6D2BE4e01D4304a28eDD13038311e112313ec8",
+      "name": "Governance token for flrETH. OFT bridged",
+      "symbol": "DINERO",
+      "decimals": "18",
+      "logoURI": "https://keyper-labs.github.io/TokenList/logos/flare/dinero.png"
+    },
+    {
+      "chainId": 14,
+      "address": "0x1D80c49BbBCd1C0911346656B529DF9E5c2F783d",
+      "name": "Wrapped Flare",
+      "symbol": "WFLR",
+      "decimals": "18",
+      "logoURI": "https://coin-images.coingecko.com/coins/images/28705/large/flare.png?1696527687"
+    },
+    {
+      "chainId": 14,
+      "address": "0x12e605bc104e93B45e1aD99F9e555f659051c2BB",
+      "name": "Staked Flare",
+      "symbol": "sFLR",
+      "decimals": "18",
+      "logoURI": "https://coin-images.coingecko.com/coins/images/38940/large/sFLR.png?1719569593"
+    },
+    {
+      "chainId": 14,
+      "address": "0x1502FA4be69d526124D453619276FacCab275d3D",
+      "name": "Wrapped ETH",
+      "symbol": "WETH",
+      "decimals": "18",
+      "logoURI": "https://storage.googleapis.com/currency-logos/eth-icon.svg"
+    },
+    {
+      "chainId": 14,
+      "address": "0xFbDa5F676cB37624f28265A144A48B0d6e87d3b6",
+      "name": "Bridged USDC on Stargate",
+      "symbol": "USDC.e",
+      "decimals": "18",
+      "logoURI": "https://keyper-labs.github.io/TokenList/logos/flare/usdc.e.png"
+    },
+    {
+      "chainId": 14,
+      "address": "0x0B38e83B86d491735fEaa0a791F65c2B99535396",
+      "name": "Bridged USDT on Stargate",
+      "symbol": "USDT",
+      "decimals": "18",
+      "logoURI": "https://coin-images.coingecko.com/coins/images/39964/large/usdt.png?1724952861"
+    },
+    {
+      "chainId": 14,
+      "address": "0x26A1faB310bd080542DC864647d05985360B16A5",
+      "name": "Flare staked Ether",
+      "symbol": "flrETH",
+      "decimals": "18",
+      "logoURI": "https://coin-images.coingecko.com/coins/images/54761/large/flrETH-token_icon.png?1741413946"
+    },
+    {
+      "chainId": 14,
+      "address": "0x19831cfB53A0dbeAD9866C43557C1D48DfF76567",
+      "name": "Cyclo FLR",
+      "symbol": "CysFLR",
+      "decimals": "18",
+      "logoURI": "https://storage.googleapis.com/currency-logos/flare-icon.png"
+    },
+    {
+      "chainId": 14,
+      "address": "0xd8BF1d2720E9fFD01a2F9A2eFc3E101a05B852b4",
+      "name": "Cyclo Wrapped ETH",
+      "symbol": "CyWETH",
+      "decimals": "18",
+      "logoURI": "https://keyper-labs.github.io/TokenList/logos/flare/cyweth.png"
+    },
+    {
+      "chainId": 14,
+      "address": "0xaFBdD875858Dd48EE32A68Ac1349A5017095B161",
+      "name": "Xhaven token",
+      "symbol": "XVN",
+      "decimals": "18",
+      "logoURI": "https://coin-images.coingecko.com/coins/images/52736/large/XVN_Logo.png?1734105356"
+    },
+    {
+      "chainId": 14,
+      "address": "0xE6505f92583103AF7ed9974DEC451A7Af4e3A3bE",
+      "name": "Kinetic Token",
+      "symbol": "Joule",
+      "decimals": "18",
+      "logoURI": "https://coin-images.coingecko.com/coins/images/39538/large/Joule_square.png?1722841551"
+    }
+  ],
+  "logoURI": "https://storage.googleapis.com/currency-logos/flare-icon.png",
+  "tags": {
+    "sourceList": {
+      "name": "Palmera Dao Token List",
+      "description": "Palmera Dao Token List, for Flare Chain"
+    }
+  }
 }
