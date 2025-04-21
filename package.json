@@ -1,0 +1,17 @@
+{
+  "name": "palmera-dao-token-list",
+  "version": "1.0.0",
+  "description": "Token lists for PalmeraDAO",
+  "scripts": {
+    "format": "prettier --write \"**/*.json\"",
+    "prepare": "husky install"
+  },
+  "devDependencies": {
+    "husky": "^8.0.0",
+    "lint-staged": "^15.2.0",
+    "prettier": "^3.2.0"
+  },
+  "lint-staged": {
+    "*.json": "prettier --write"
+  }
+}
