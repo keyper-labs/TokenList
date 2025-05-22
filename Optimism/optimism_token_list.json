@@ -1,0 +1,58 @@
+{
+  "name": "Palmera Dao Token List for Optimism Chain",
+  "timestamp": "2025-05-22T14:00:00.000000Z",
+  "version": {
+    "major": 1,
+    "minor": 0,
+    "patch": 0
+  },
+  "tokens": [
+    {
+      "chainId": 10,
+      "address": "0x67C5870b4A41D4Ebef24d2456547A03F1f3e094B",
+      "name": "WalletConnect",
+      "symbol": "WCT",
+      "decimals": "18",
+      "logoURI": "https://ethereum-optimism.github.io/data/WCT/logo.svg"
+    },
+    {
+      "chainId": 10,
+      "address": "0xDA10009cBd5D07dd0CeCc66161FC93D7c9000da1",
+      "name": "Dai Stablecoin",
+      "symbol": "DAI",
+      "decimals": "18",
+      "logoURI": "https://ethereum-optimism.github.io/data/DAI/logo.svg"
+    },
+    {
+      "chainId": 10,
+      "address": "0x4F604735c1cF31399C6E711D5962b2B3E0225AD3",
+      "name": "Glo Dollar",
+      "symbol": "USDGLO",
+      "decimals": "18",
+      "logoURI": "https://static.optimism.io/data/USDGLO/logo.svg"
+    },
+    {
+      "chainId": 10,
+      "address": "0x7F5c764cBc14f9669B88837ca1490cCa17c31607",
+      "name": "USD Coin",
+      "symbol": "USDC.e",
+      "decimals": "6",
+      "logoURI": "https://ethereum-optimism.github.io/data/BridgedUSDC/logo.png"
+    },
+    {
+      "chainId": 10,
+      "address": "0x528CDc92eAB044E1E39FE43B9514bfdAB4412B98",
+      "name": "Giveth Token",
+      "symbol": "GIV",
+      "decimals": "18",
+      "logoURI": "https://static.optimism.io/data/GIV/logo.svg"
+    }
+  ],
+  "logoURI": "https://storage.googleapis.com/currency-logos/optimism-icon.svg",
+  "tags": {
+    "sourceList": {
+      "name": "Palmera Dao Token List",
+      "description": "Palmera Dao Token List, for Optimism Chain"
+    }
+  }
+}
