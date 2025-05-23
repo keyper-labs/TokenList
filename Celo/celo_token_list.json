@@ -1,0 +1,27 @@
+{
+  "name": "Palmera Dao Token List for Celo Chain",
+  "timestamp": "2025-05-23T10:00:00.000000Z",
+  "version": {
+    "major": 1,
+    "minor": 0,
+    "patch": 0
+  },
+  "tokens": [
+
+    {
+      "chainId": 42220,
+      "address": "0x0000000000000000000000000000000000000000",
+      "name": "Celo",
+      "symbol": "CELO",
+      "decimals": 18,
+      "logoURI": "https:///safe-transaction-assets.safe.global/chains/42220/currency_logo.png"
+    }
+  ],
+  "logoURI": "https://web-core-images.s3.eu-north-1.amazonaws.com/favicon-16x16.svg",
+  "tags": {
+    "sourceList": {
+      "name": "Palmera Dao Token List",
+      "description": "Palmera Dao Token List, for Celo Chain"
+    }
+  }
+}
