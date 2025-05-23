@@ -3302,14 +3302,6 @@
       "symbol": "TALENT",
       "decimals": "18",
       "logoURI": "https://coin-images.coingecko.com/coins/images/51120/large/Ticker-logo-200.png?1730128751"
-    },
-    {
-      "chainId": 8453,
-      "address": "0x0000000000000000000000000000000000000000",
-      "name": "ETH",
-      "symbol": "ETH",
-      "decimals": 18,
-      "logoURI": "https://storage.googleapis.com/currency-logos/eth-native-token.svg"
     }
   ],
   "logoURI": "https://web-core-images.s3.eu-north-1.amazonaws.com/favicon-16x16.svg",

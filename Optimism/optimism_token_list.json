@@ -46,14 +46,6 @@
       "symbol": "GIV",
       "decimals": "18",
       "logoURI": "https://static.optimism.io/data/GIV/logo.svg"
-    },
-    {
-      "chainId": 10,
-      "address": "0x0000000000000000000000000000000000000000",
-      "name": "Ether",
-      "symbol": "OETH",
-      "decimals": "18",
-      "logoURI": "https://storage.googleapis.com/currency-logos/eth-native-token.svg"
     }
   ],
   "logoURI": "https://storage.googleapis.com/currency-logos/optimism-icon.svg",

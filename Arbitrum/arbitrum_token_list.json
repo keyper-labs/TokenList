@@ -1664,14 +1664,6 @@
       "symbol": "VSTA",
       "decimals": 18,
       "logoURI": "https://pbs.twimg.com/profile_images/1684092495091707905/s3aVIeQs_400x400.jpg"
-    },
-    {
-      "chainId": 42161,
-      "address": "0x0000000000000000000000000000000000000000",
-      "name": "AETH",
-      "symbol": "AETH",
-      "decimals": 18,
-      "logoURI": "https://storage.googleapis.com/currency-logos/eth-native-token.svg"
     }
   ],
   "logoURI": "https://web-core-images.s3.eu-north-1.amazonaws.com/favicon-16x16.svg",
