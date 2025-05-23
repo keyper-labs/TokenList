@@ -1,0 +1,27 @@
+{
+  "name": "Palmera Dao Token List for Polygon Chain",
+  "timestamp": "2025-05-23T10:00:00.000000Z",
+  "version": {
+    "major": 1,
+    "minor": 0,
+    "patch": 0
+  },
+  "tokens": [
+
+    {
+      "chainId": 137,
+      "address": "0x0000000000000000000000000000000000000000",
+      "name": "Matic",
+      "symbol": "MATIC",
+      "decimals": 18,
+      "logoURI": "https:///safe-transaction-assets.safe.global/chains/137/currency_logo.png"
+    }
+  ],
+  "logoURI": "https://web-core-images.s3.eu-north-1.amazonaws.com/favicon-16x16.svg",
+  "tags": {
+    "sourceList": {
+      "name": "Palmera Dao Token List",
+      "description": "Palmera Dao Token List, for Polygon Chain"
+    }
+  }
+}
