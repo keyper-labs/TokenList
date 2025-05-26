@@ -1672,6 +1672,14 @@
       "symbol": "USDGLO",
       "decimals": 18,
       "logoURI": "https://arbiscan.io/token/images/glo_32.png"
+    },
+    {
+      "chainId": 42161,
+      "address": "0x306fD3e7b169Aa4ee19412323e1a5995B8c1a1f4",
+      "name": "Black Agnus",
+      "symbol": "FTW",
+      "decimals": 18,
+      "logoURI": "https://arbiscan.io/token/images/blackagnus_32.png"
     }
   ],
   "logoURI": "https://web-core-images.s3.eu-north-1.amazonaws.com/favicon-16x16.svg",
