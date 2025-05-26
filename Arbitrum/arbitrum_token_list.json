@@ -1664,6 +1664,14 @@
       "symbol": "VSTA",
       "decimals": 18,
       "logoURI": "https://pbs.twimg.com/profile_images/1684092495091707905/s3aVIeQs_400x400.jpg"
+    },
+    {
+      "chainId": 42161,
+      "address": "0x4F604735c1cF31399C6E711D5962b2B3E0225AD3",
+      "name": "Glo Dollar",
+      "symbol": "USDGLO",
+      "decimals": 18,
+      "logoURI": "https://arbiscan.io/token/images/glo_32.png"
     }
   ],
   "logoURI": "https://web-core-images.s3.eu-north-1.amazonaws.com/favicon-16x16.svg",

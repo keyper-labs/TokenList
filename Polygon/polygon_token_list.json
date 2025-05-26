@@ -7,6 +7,14 @@
     "patch": 0
   },
   "tokens": [
+    {
+      "chainId": 137,
+      "address": "0x9c2C5fd7b07E95EE044DDeba0E97a665F142394f",
+      "name": "1INCH Token",
+      "symbol": "1INCH",
+      "decimals": 18,
+      "logoURI": "https://polygonscan.com/token/images/1inch_32.png"
+    }
   ],
   "logoURI": "https://web-core-images.s3.eu-north-1.amazonaws.com/favicon-16x16.svg",
   "tags": {
