@@ -3302,6 +3302,30 @@
       "symbol": "TALENT",
       "decimals": "18",
       "logoURI": "https://coin-images.coingecko.com/coins/images/51120/large/Ticker-logo-200.png?1730128751"
+    },
+    {
+      "chainId": 8453,
+      "address": "0xFe1585565945eb937d895057EFd8aC1Cf5Ce9FA3",
+      "name": "USA Unity Coin",
+      "symbol": "UCC",
+      "decimals": "18",
+      "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/35899.png"
+    },
+    {
+      "chainId": 8453,
+      "address": "0xfAf87e196A29969094bE35DfB0Ab9d0b8518dB84",
+      "name": "ACHIVX",
+      "symbol": "ACHIVX",
+      "decimals": "6",
+      "logoURI": "https://basescan.org/token/images/achivx_32.png"
+    },
+    {
+      "chainId": 8453,
+      "address": "0xDbf9F254C365ABe4294884d1249c7a2388f70911",
+      "name": "RST0001-UAE-DUBAI-BAYZ BY DANUBE-01",
+      "symbol": "RST0001-UAE-DUBAI-BAYZ BY DANUBE-01",
+      "decimals": "18",
+      "logoURI": "https://basescan.org/token/images/realtyx_32.png"
     }
   ],
   "logoURI": "https://web-core-images.s3.eu-north-1.amazonaws.com/favicon-16x16.svg",
