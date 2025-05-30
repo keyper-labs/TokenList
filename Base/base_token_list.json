@@ -3326,6 +3326,22 @@
       "symbol": "RST0001-UAE-DUBAI-BAYZ BY DANUBE-01",
       "decimals": "18",
       "logoURI": "https://basescan.org/token/images/realtyx_32.png"
+    },
+    {
+      "chainId": 8453,
+      "address": "0x16e5FD4ff3E906aEF71E8c54B9B11B0494177A7E",
+      "name": "rxvDBX",
+      "symbol": "rxvDBX",
+      "decimals": "18",
+      "logoURI": "https://basescan.org/token/images/realtyxbase_32.png"
+    },
+    {
+      "chainId": 8453,
+      "address": "0x1fE265dB428Ec5dbCd69e4AECFc47791a4e5F0Bd",
+      "name": "Oh No",
+      "symbol": "OHNO",
+      "decimals": "18",
+      "logoURI": "https://basescan.org/token/images/ohnogg_32.png"
     }
   ],
   "logoURI": "https://web-core-images.s3.eu-north-1.amazonaws.com/favicon-16x16.svg",
