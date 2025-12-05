@@ -107,6 +107,11 @@ scripts/
 .temp
 .cache
 
+# Cursor
+.cursor/
+.cursor
+.cursor/**
+
 # Docusaurus cache and generated files
 .docusaurus
 
