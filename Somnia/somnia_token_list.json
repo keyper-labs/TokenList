@@ -12,7 +12,7 @@
       "address": "0x0000000000000000000000000000000000000000",
       "name": "Somi",
       "symbol": "SOMI",
-      "decimals": "18",
+      "decimals": 18,
       "logoURI": "https://coin-images.coingecko.com/coins/images/69031/large/somi.png?1757319530"
     },
     {
@@ -20,7 +20,7 @@
       "address": "0x046EDe9564A72571df6F5e44d0405360c0f4dCab",
       "name": "Wrapped SOMI",
       "symbol": "WSOMI",
-      "decimals": "18",
+      "decimals": 18,
       "logoURI": "https://coin-images.coingecko.com/coins/images/69031/large/somi.png?1757319530"
     }
   ],
